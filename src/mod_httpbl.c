@@ -1,5 +1,4 @@
 /* $Id: mod_httpbl.c,v 1.5 2007/08/28 01:09:09 oxyrubber Exp $ */
-
 /*
  *   mod_httpbl for Apache 2.0
  *   Copyright (c) by Unspam Technologies, Inc.
